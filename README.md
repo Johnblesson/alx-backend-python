@@ -1,1 +1,1 @@
-## This repository contains a repo of alx backend python.
+## This repository contains directories of alx backend python (Advanced Python).
