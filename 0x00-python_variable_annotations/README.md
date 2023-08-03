@@ -1,1 +1,1 @@
-## This repo contain solution of 0x00-python_variable_annotations
+## This repo contain solutions of 0x00-python_variable_annotations
