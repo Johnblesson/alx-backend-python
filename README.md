@@ -1,1 +1,1 @@
-## This repository contain a repo of alx backend python.
+## This repository contains a repo of alx backend python.
